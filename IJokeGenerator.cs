@@ -1,0 +1,4 @@
+interface IJokeGenerator
+{
+    string GenerateJoke();
+}
