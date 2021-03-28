@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace HoholGenerator
@@ -13,7 +14,15 @@ namespace HoholGenerator
             string[] starts = File.ReadAllLines(startsPath);
             string[] punchLines =File.ReadAllLines(punchLinesPath);
 
-            IJokeGenerator hoholJokeGenerator = new ClassicJokeGenerator(starts, punchLines);
+            IJokeGenerator jokeGenerator = new ClassicJokeGenerator(starts, punchLines);
+
+            List<string> jokes = new List<string>();
+
+            for(int i = 0; i < 100; i++)
+            {
+                jokes.Add(jokeGenerator.GenerateJoke());
+            }
+            File.WriteAllLines("Jokes.txt", jokes);
         }
     }
 }

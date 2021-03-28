@@ -1,0 +1,16 @@
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/HoholGenerator
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/HoholGenerator.deps.json
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/HoholGenerator.runtimeconfig.json
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/HoholGenerator.runtimeconfig.dev.json
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/HoholGenerator.dll
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/ref/HoholGenerator.dll
+/home/doublegrabli/Desktop/HoholGenerator/bin/Debug/net5.0/HoholGenerator.pdb
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.csprojAssemblyReference.cache
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.AssemblyInfoInputs.cache
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.AssemblyInfo.cs
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.csproj.CoreCompileInputs.cache
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.dll
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/ref/HoholGenerator.dll
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.pdb
+/home/doublegrabli/Desktop/HoholGenerator/obj/Debug/net5.0/HoholGenerator.genruntimeconfig.cache
