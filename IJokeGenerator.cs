@@ -1,7 +1,6 @@
 namespace HoholGenerator
 {
-
-    interface IJokeGenerator
+    public interface IJokeGenerator
     {
         string GenerateJoke();
     }

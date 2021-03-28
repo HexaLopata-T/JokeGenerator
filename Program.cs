@@ -12,7 +12,7 @@ namespace HoholGenerator
             string punchLinesPath = "JokePunchLines.txt";
 
             string[] starts = File.ReadAllLines(startsPath);
-            string[] punchLines =File.ReadAllLines(punchLinesPath);
+            string[] punchLines = File.ReadAllLines(punchLinesPath);
 
             IJokeGenerator jokeGenerator = new ClassicJokeGenerator(starts, punchLines);
 
